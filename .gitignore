@@ -12,3 +12,7 @@ wheels/
 # Jupyter
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
+
+# Scratch / temporary notebooks
+**/test.ipynb
+**/scratch.ipynb
