@@ -16,4 +16,5 @@ dependencies = [
 dev = [
     "ipython>=9.14.1",
     "jupyter>=1.1.1",
+    "kaggle>=2.2.2",
 ]

@@ -16,3 +16,6 @@ wheels/
 # Scratch / temporary notebooks
 **/test.ipynb
 **/scratch.ipynb
+
+# Kaggle data (재배포 규정상 커밋 안 함 — 각자 다운로드)
+data/titanic/
