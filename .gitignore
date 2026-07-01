@@ -19,3 +19,8 @@ wheels/
 
 # Kaggle data (재배포 규정상 커밋 안 함 — 각자 다운로드)
 data/titanic/
+data/berka/
+
+# 시크릿 키
+.env
+.env.*
